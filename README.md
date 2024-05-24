@@ -5,17 +5,17 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Tifeko/dotconfig](https://github.com/Tifeko/dotconfig) - 
-- [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - 
+- [Tifeko/dotconfig](https://github.com/Tifeko/dotconfig) - my dotconfig for stow
+- [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - install scripts for linux
 - [Tifeko/archTifeko](https://github.com/Tifeko/archTifeko) - A arch install script
 - [Tifeko/pages](https://github.com/Tifeko/pages) - 
 - [Tifeko/ansible-test](https://github.com/Tifeko/ansible-test) - 
 ### 🌱 My latest projects
 
-- [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - 
+- [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - install scripts for linux
 - [Tifeko/pages](https://github.com/Tifeko/pages) - 
 - [Tifeko/ansible-test](https://github.com/Tifeko/ansible-test) - 
-- [Tifeko/dotconfig](https://github.com/Tifeko/dotconfig) - 
+- [Tifeko/dotconfig](https://github.com/Tifeko/dotconfig) - my dotconfig for stow
 - [Tifeko/nixos](https://github.com/Tifeko/nixos) - My personal nixos configs
 ### 🔨 My recent Pull Requests
 
