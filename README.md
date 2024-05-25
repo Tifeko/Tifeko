@@ -22,7 +22,7 @@
 - [christitustech updates](https://github.com/ChrisTitusTech/dwm-titus/pull/10) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
