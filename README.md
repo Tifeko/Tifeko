@@ -25,6 +25,8 @@
 - [Tifeko/mybash](https://github.com/Tifeko/mybash) - 
 ### 🔨 My recent Pull Requests
 
+- [Titus](https://github.com/Tifeko/dwm-tifeko/pull/1) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
+- [Titus commits](https://github.com/ChrisTitusTech/dwm-titus/pull/24) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [christitustech updates](https://github.com/ChrisTitusTech/dwm-titus/pull/10) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
