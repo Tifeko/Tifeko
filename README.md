@@ -27,11 +27,14 @@
 - [Tifeko/mybash](https://github.com/Tifeko/mybash) - 
 ### 🔨 My recent Pull Requests
 
+- [Forks sync](https://github.com/ChrisTitusTech/dwm-titus/pull/27) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
+- [Titus](https://github.com/Tifeko/dwm-tifeko/pull/2) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
 - [Titus](https://github.com/Tifeko/dwm-tifeko/pull/1) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
 - [Titus commits](https://github.com/ChrisTitusTech/dwm-titus/pull/24) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [christitustech updates](https://github.com/ChrisTitusTech/dwm-titus/pull/10) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
