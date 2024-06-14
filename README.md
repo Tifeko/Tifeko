@@ -5,6 +5,7 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Tifeko/website](https://github.com/Tifeko/website) - My website
 - [Tifeko/dwm-bar](https://github.com/Tifeko/dwm-bar) - my dwm-bar config
 - [Tifeko/dotconfig](https://github.com/Tifeko/dotconfig) - my dotconfig for stow
 - [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - install scripts for linux
@@ -16,6 +17,7 @@
 - [Tifeko/archpost](https://github.com/Tifeko/archpost) - 
 ### 🌱 My latest projects
 
+- [Tifeko/website](https://github.com/Tifeko/website) - My website
 - [Tifeko/dwm-bar](https://github.com/Tifeko/dwm-bar) - my dwm-bar config
 - [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - install scripts for linux
 - [Tifeko/pages](https://github.com/Tifeko/pages) - 
