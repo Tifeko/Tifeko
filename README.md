@@ -6,8 +6,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [Tifeko/website](https://github.com/Tifeko/website) - 
-- [Tifeko/dwm-bar](https://github.com/Tifeko/dwm-bar) - my dwm-bar config
 - [Tifeko/dotconfig](https://github.com/Tifeko/dotconfig) - my dotconfig for stow
+- [Tifeko/dwm-bar](https://github.com/Tifeko/dwm-bar) - my dwm-bar config
 - [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - install scripts for linux
 - [Tifeko/archTifeko](https://github.com/Tifeko/archTifeko) - A arch install script
 - [Tifeko/pages](https://github.com/Tifeko/pages) - 
@@ -29,6 +29,7 @@
 - [Tifeko/mybash](https://github.com/Tifeko/mybash) - 
 ### 🔨 My recent Pull Requests
 
+- [tesr](https://github.com/Tifeko/dwm-tifeko/pull/3) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
 - [Forks sync](https://github.com/ChrisTitusTech/dwm-titus/pull/27) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [Titus](https://github.com/Tifeko/dwm-tifeko/pull/2) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
 - [Titus](https://github.com/Tifeko/dwm-tifeko/pull/1) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
@@ -36,6 +37,7 @@
 - [christitustech updates](https://github.com/ChrisTitusTech/dwm-titus/pull/10) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 ### ⭐ Recent Stars
 
+- [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
