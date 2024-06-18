@@ -5,11 +5,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Tifeko/archTifeko](https://github.com/Tifeko/archTifeko) - A arch install script
 - [Tifeko/website](https://github.com/Tifeko/website) - 
 - [Tifeko/dotconfig](https://github.com/Tifeko/dotconfig) - my dotconfig for stow
 - [Tifeko/dwm-bar](https://github.com/Tifeko/dwm-bar) - my dwm-bar config
 - [Tifeko/install_scripts](https://github.com/Tifeko/install_scripts) - install scripts for linux
-- [Tifeko/archTifeko](https://github.com/Tifeko/archTifeko) - A arch install script
 - [Tifeko/pages](https://github.com/Tifeko/pages) - 
 - [Tifeko/ansible-test](https://github.com/Tifeko/ansible-test) - 
 - [Tifeko/nixos](https://github.com/Tifeko/nixos) - My personal nixos configs
@@ -29,6 +29,7 @@
 - [Tifeko/mybash](https://github.com/Tifeko/mybash) - 
 ### 🔨 My recent Pull Requests
 
+- [kip](https://github.com/Tifeko/dwm-tifeko/pull/4) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
 - [tesr](https://github.com/Tifeko/dwm-tifeko/pull/3) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
 - [Forks sync](https://github.com/ChrisTitusTech/dwm-titus/pull/27) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [Titus](https://github.com/Tifeko/dwm-tifeko/pull/2) on [Tifeko/dwm-tifeko](https://github.com/Tifeko/dwm-tifeko)
