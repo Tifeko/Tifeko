@@ -48,4 +48,4 @@
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
-- [modrinth/theseus](https://github.com/modrinth/theseus) - Our game launcher which can be used as a CLI, GUI, and a library for creating and playing Modrinth projects.
+- [modrinth/theseus](https://github.com/modrinth/theseus) - AKA the Modrinth App, a launcher for Minecraft: Java Edition with a clean look, easy-to-use interface, and deep integration into Modrinth services.
