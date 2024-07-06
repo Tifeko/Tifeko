@@ -48,4 +48,4 @@
 - [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
-- [modrinth/olympus](https://github.com/modrinth/olympus) - The Modrinth monorepo containing all code which powers Modrinth!
+- [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
